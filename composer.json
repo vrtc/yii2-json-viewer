@@ -1,10 +1,10 @@
 {
-  "name": "huijiewei/yii2-json-viewer",
+  "name": "vrtc/yii2-json-viewer",
   "description": "json-viewer is a jQuery plugin for easily displaying JSON objects by transforming them into HTML.",
   "minimum-stability": "beta",
   "license": "MIT",
   "type": "yii2-extension",
-  "homepage": "https://github.com/huijiewei/yii2-json-viewer.git",
+  "homepage": "https://github.com/vrtc/yii2-json-viewer.git",
   "keywords": [
     "yii2",
     "extension",
