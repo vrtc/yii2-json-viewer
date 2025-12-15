@@ -6,7 +6,7 @@
  * Time: 12:19
  */
 
-namespace huijiewei\jsonViewer;
+namespace vrtc\jsonViewer;
 
 use yii\web\AssetBundle;
 use yii\web\JqueryAsset;
