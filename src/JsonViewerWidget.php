@@ -1,7 +1,7 @@
 <?php
 
 
-namespace huijiewei\jsonViewer;
+namespace vrtc\jsonViewer;
 
 use yii\base\Widget;
 
